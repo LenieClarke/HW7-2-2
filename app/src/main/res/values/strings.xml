@@ -5,4 +5,5 @@
     <string name="callBtnTxt">Звоним</string>
     <string name="sendBtnTxt">Отправляем СМС</string>
     <string name="SMSWasSentToast">СМС было отправлено</string>
+    <string name="permissionNotReceivedToast">Разрешение не получено</string>
 </resources>
